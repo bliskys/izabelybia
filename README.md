@@ -5,7 +5,7 @@
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos na disciplina de Pensamento Computacional
 - Você pode entrar em contato comigo izabely.rocha@escola.pr.gov.br
 
-![](https://i.makeagif.com/media/12-29-2017/DrbufK.gif)
+![](https://i.makeagif.com/media/12-29-2017/DrbufK.gif).
 
 
 
